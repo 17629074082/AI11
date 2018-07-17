@@ -2,4 +2,3 @@
 #-*-coding:UTF-8-*-
 import subprocess
 subprocess.call(['date','>>','/home/wang/de'],shell=True)
-hell01
